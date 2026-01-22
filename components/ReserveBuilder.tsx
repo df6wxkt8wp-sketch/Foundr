@@ -127,7 +127,7 @@ export const ReserveBuilder: React.FC = () => {
                     <div>
                         <h4 className="text-sm font-bold text-amber-900 font-serif mb-1">Reserve Policy</h4>
                         <p className="text-xs text-amber-800 leading-relaxed opacity-90">
-                            Funds can only be accessed if operating cash flow is negative for > 30 days. Replenishment must be prioritized over distributions once cash flow stabilizes.
+                            Funds can only be accessed if operating cash flow is negative for &gt; 30 days. Replenishment must be prioritized over distributions once cash flow stabilizes.
                         </p>
                     </div>
                 </div>
