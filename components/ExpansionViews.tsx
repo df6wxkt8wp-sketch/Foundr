@@ -95,7 +95,7 @@ export const CovinaLaunch: React.FC = () => {
             <Card title="Launch Timeline (2026)">
                 <div className="space-y-0 relative before:absolute before:left-[19px] before:top-2 before:bottom-2 before:w-[2px] before:bg-slate-100 py-2">
                     {[
-                        { title: 'Location Secured', date: 'Q1 2026', status: 'done', desc: 'Site identified and lease agreement finalized.' },
+                        { title: 'Location Secured', date: 'Q4 2025', status: 'done', desc: 'Site identified and lease agreement finalized.' },
                         { title: 'Permitting & Design', date: 'Q2 2026', status: 'current', desc: 'Architectural drawings, city approval.' },
                         { title: 'Buildout & Pre-Sales', date: 'Q3 2026', status: 'pending', desc: 'Construction, hard hat tours, marketing push.' },
                         { title: 'Soft Open', date: 'Oct 2026', status: 'pending', desc: 'Friends & Family, Founding Members move-in.' },
